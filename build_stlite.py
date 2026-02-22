@@ -10,7 +10,7 @@ def generate_stlite_index():
     }
 
     # Files to include
-    include_extensions = ['.py', '.json', '.md']
+    include_extensions = ['.py', '.json', '.md', '.png', '.jpg', '.jpeg', '.gif']
     exclude_dirs = ['venv', '__pycache__', '.git', '.vscode', '.idea']
     
     # Walk through the directory

@@ -7,9 +7,13 @@ from researcher import SchoolResearcher
 from essay_helper import EssayHelper
 
 # Set page configuration
+page_icon = "🇺🇸"  # Default icon
+if os.path.exists("favicon.png"):
+    page_icon = "favicon.png"
+
 st.set_page_config(
     page_title="US Transfer Research Assistant",
-    page_icon="🇺🇸",
+    page_icon=page_icon,
     layout="wide"
 )
 
