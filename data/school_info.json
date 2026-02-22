@@ -1,0 +1,272 @@
+[
+    {
+        "school": "University of Chicago (UChicago)",
+        "url": "https://collegeadmissions.uchicago.edu/apply/transfer-applicants",
+        "colleges": [
+            {
+                "name": "The College",
+                "status": "Very Competitive",
+                "notes": "Known for the Core Curriculum (Hum, Civ, Soc, Bio, Phys Sci). Quarter system is fast-paced. Intellectual fit is crucial.",
+                "majors_desc": "Anthropology, Archaeology, Art History, Astronomy and Astrophysics, Biological Chemistry, Biological Sciences, Chemistry, Cinema and Media Studies, Classical Studies, Climate and Sustainable Growth, Cognitive Science, Comparative Human Development, Comparative Literature, Comparative Race and Ethnic Studies, Computational and Applied Mathematics, Computer Science, Creative Writing, Data Science, East Asian Languages and Civilizations, Economics, English Language and Literature, Environment, Geography, and Urbanization, Environmental Science, Fundamentals: Issues and Texts, Gender and Sexuality Studies, Geophysical Sciences, Germanic Studies, Global Studies, History, History, Philosophy, and Social Studies of Science and Medicine, Human Rights, Inquiry and Research in the Humanities, Jewish Studies, Latin American and Caribbean Studies, Law, Letters, and Society, Linguistics, Mathematics, Media Arts and Design, Medieval Studies, Middle Eastern Studies, Molecular Engineering, Music, Neuroscience, Philosophy, Philosophy and Allied Fields, Physics, Political Science, Psychology, Public Policy Studies, Religious Studies, Romance Languages and Literatures, Russian and East European Studies, Sociology, South Asian Languages and Civilizations, Statistics, Theater and Performance Studies, Visual Arts."
+            }
+        ]
+    },
+    {
+        "school": "Dartmouth College",
+        "url": "https://admissions.dartmouth.edu/apply-dartmouth#filter-2141",
+        "colleges": [
+            {
+                "name": "The College",
+                "status": "Competitive",
+                "notes": "Small transfer cohort. D-Plan (quarter system) requires careful planning. Engineering is unified (Engineering Sciences).",
+                "majors_desc": "African & African American Studies, Ancient History, Anthropology, Applied Mathematics, Art History, Asian Societies, Cultures, & Languages, Astronomy, Biological Chemistry, Biology, Biomedical Engineering Sciences, Biophysical Chemistry, Chemistry, Classical Archaeology, Classical Languages & Literatures, Classical Studies, Cognitive Science, Comparative Literature, Computer Science, Earth Sciences, Economics, Engineering Physics, Engineering Sciences, English, Environmental Earth Sciences, Environmental Studies, Film & Media Studies, French, French Studies, Geography, German Studies, Government, History, Human-Centered Design, Italian, Italian Studies, Latin American, Latino, & Caribbean Studies, Linguistics, Mathematical Data Science, Mathematics, Middle Eastern Studies, Music, Native American & Indigenous Studies, Neuroscience, Philosophy, Physics, Portuguese, Psychology, Quantitative Social Science, Religion, Romance Languages, Romance Studies, Russian, Russian Area Studies, Sociology, Spanish, Studio Art, Theater, Women's, Gender, & Sexuality Studies."
+            }
+        ]
+    },
+    {
+        "school": "Columbia University",
+        "url": "https://undergrad.admissions.columbia.edu/apply/transfer",
+        "colleges": [
+            {
+                "name": "Columbia Engineering (SEAS)",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Columbia Engineering (SEAS).",
+                "majors_desc": "Computer Science, Data Science"
+            },
+            {
+                "name": "Columbia College",
+                "status": "Extremely Competitive",
+                "notes": "Core Curriculum is central. Distinct from General Studies (GS). (Main Liberal Arts College)",
+                "majors_desc": "Architecture, Art History, Astronomy, Astrophysics, Biochemistry, Biology, Biophysics, Chemical Physics, Chemistry, Classics, Comparative Literature, Creative Writing, Dance, Drama and Theatre Arts, Earth Science, East Asian Languages and Cultures, Economics, English, Environmental Biology, Environmental Chemistry, Environmental Science, Ethnicity and Race Studies, Film and Media Studies, Financial Economics, French, French and Francophone Studies, German Literature and Cultural History, History, History and Theory of Architecture, Human Rights, Information Science, Italian, Jazz Studies, Latin American and Caribbean Studies, Linguistics, Mathematics, Mathematics-Statistics, Middle Eastern, Music, Neuroscience and Behavior, Philosophy, Physics, Political Science, Portuguese Studies, Psychology, Regional Studies, Religion, Russian Language and Culture, Russian Literature and Culture, Slavic Studies, Sociology, South Asian, Statistics, Sustainable Development, Urban Studies, Visual Arts, Women's and Gender Studies., and African Studies"
+            }
+        ]
+    },
+    {
+        "school": "Duke University",
+        "url": "https://admissions.duke.edu/apply/#transfer",
+        "colleges": [
+            {
+                "name": "Pratt School of Engineering",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Pratt School of Engineering.",
+                "majors_desc": "Biomedical Engineering, Civil Engineering, Classical Civilization, Electrical & Computer Engineering, Environmental Engineering, Mechanical Engineering"
+            },
+            {
+                "name": "Trinity College of Arts & Sciences",
+                "status": "Competitive",
+                "notes": "Interdisciplinary focus. Research opportunities are vast. (Main Liberal Arts College)",
+                "majors_desc": "African & African American Studies, Art History, Asian & Middle Eastern Studies, Biology, Biophysics, Brazilian and Global Portuguese, Chemistry, Classical Languages, Computer Science, Cultural Anthropology, Dance, Earth and Ocean Sciences, Economics, English, Environmental Sciences, Environmental Sciences & Policy, Evolutionary Anthropology, French, Gender, German, Global Cultural Studies, Global Health, History, Interdepartmental Major, International Comparative Studies, Italian, Linguistics, Mathematics, Medieval and Renaissance Studies, Music, Neuroscience, Philosophy, Physics, Political Science, Program II (Self-Designed), Psychology, Public Policy, Religious Studies, Romance Studies, Russian, Sexuality & Feminist Studies, Slavic and Eurasian Studies, Sociology, Spanish, Statistical Science, Theater Studies, Visual Arts, Visual and Media Studies."
+            }
+        ]
+    },
+    {
+        "school": "Brown University",
+        "url": "https://admission.brown.edu/transfer",
+        "colleges": [
+            {
+                "name": "The College",
+                "status": "Very Competitive",
+                "notes": "Open Curriculum. Students design their own path.",
+                "majors_desc": "Africana Studies, American Studies, Anthropology, Applied Mathematics, Archaeology and the Ancient World, Architecture, Astronomy, Behavioral Decision Sciences, Biochemistry and Molecular Biology, Biology, Biomedical Engineering, Biophysics, Chemical Physics, Chemistry, Classics, Cognitive Neuroscience, Cognitive Science, Comparative Literature, Computational Biology, Computer Science, Contemplative Studies, Critical Global Studies, Data Science, Development Studies, Early Cultures, Earth, Environmental, and Planetary Sciences, East Asian Studies, Economics, Education Studies, Egyptology and Assyriology, Engineering, English, Environmental Studies, Ethnic Studies, French and Francophone Studies, Gender and Sexuality Studies, Geological Sciences, Geophysics, German Studies, Health and Human Biology, Hispanic Studies, History, History of Art and Architecture, Independent Concentration, International and Public Affairs, International Relations, Italian Studies, Judaic Studies, Latin American and Caribbean Studies, Linguistics, Literary Arts, Mathematics, Medieval Cultures, Middle East Studies, Modern Culture and Media, Music, Neuroscience, Philosophy, Physics, Political Science, Portuguese and Brazilian Studies, Psychology, Public Health, Public Policy, Religious Studies, Science, Technology, and Society, Slavic Studies, Social Analysis and Research, Sociology, South Asian Studies, Statistics, Theatre Arts and Performance Studies, Urban Studies, Visual Art."
+            }
+        ]
+    },
+    {
+        "school": "Johns Hopkins University (JHU)",
+        "url": "https://apply.jhu.edu/how-to-apply/transfer-students/",
+        "colleges": [
+            {
+                "name": "Whiting School of Engineering",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Whiting School of Engineering.",
+                "majors_desc": "Applied Mathematics and Statistics, Biomedical Engineering, Chemical and Biomolecular Engineering, Civil Engineering, Computer Engineering, Computer Science, Electrical Engineering, Engineering Mechanics, Environmental Engineering, General Engineering, Materials Science and Engineering, Mechanical Engineering"
+            },
+            {
+                "name": "Krieger School of Arts and Sciences",
+                "status": "Competitive",
+                "notes": "Research powerhouse. No core curriculum (distribution requirements). (Main Liberal Arts College)",
+                "majors_desc": "Africana Studies, Anthropology, Archaeology, Behavioral Biology, Bioethics, Biology, Biophysics, Caribbean, Chemistry, Classics, Cognitive Science, Earth and Planetary Sciences, East Asian Studies, Economics, English, Environmental Science, Environmental Studies, Film and Media Studies, French, Geography, German, Global Environmental Change and Sustainability, History, History of Art, History of Science, Interdisciplinary Studies, International Studies, Italian, Latin American, Mathematics, Medicine, Medicine, Molecular and Cellular Biology, Music, Natural Sciences Area, Near Eastern Studies, Neuroscience, Philosophy, Physics, Political Science, Psychology, Public Health Studies, Romance Languages, Science, Sociology, Spanish, Writing Seminars., and Latinx Studies, and Technology, and the Humanities"
+            }
+        ]
+    },
+    {
+        "school": "Northwestern University",
+        "url": "https://admissions.northwestern.edu/apply/transfer/",
+        "colleges": [
+            {
+                "name": "McCormick School of Engineering",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for McCormick School of Engineering.",
+                "majors_desc": "Computer Science, Engineering (various)., Materials Science"
+            },
+            {
+                "name": "Medill School of Journalism",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Medill School of Journalism.",
+                "majors_desc": "Journalism"
+            },
+            {
+                "name": "School of Communication",
+                "status": "Competitive",
+                "notes": "Specialized admissions for School of Communication.",
+                "majors_desc": "Radio/TV/Film, Theatre"
+            },
+            {
+                "name": "Weinberg College of Arts and Sciences",
+                "status": "Competitive",
+                "notes": "Quarter system. Strong pre-professional focus mixed with liberal arts. (Main Liberal Arts College)",
+                "majors_desc": "African American Studies, American Studies, Anthropology, Art History, Art Theory and Practice, Asian Languages and Cultures, Biological Sciences, Chemistry, Classics, Cognitive Science, Comparative Literary Studies, Earth and Planetary Sciences, Economics, English, Environmental Policy and Culture, Environmental Sciences, French, Gender and Sexuality Studies, Geography, German, Global Health Studies, History, Integrated Science Program, International Studies, Italian, Jewish Studies, Latino/a Studies, Legal Studies, Linguistics, Mathematical Methods in the Social Sciences, Mathematics, Middle East and North African Studies, Neuroscience, Philosophy, Physics and Astronomy, Political Science, Psychology, Religious Studies, Russian and East European Studies, Science in Human Culture, Sociology, Spanish, Statistics"
+            }
+        ]
+    },
+    {
+        "school": "Cornell University",
+        "url": "https://admissions.cornell.edu/apply/transfer-applicants",
+        "colleges": [
+            {
+                "name": "College of Engineering",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for College of Engineering.",
+                "majors_desc": "Biological Engineering, Biomedical Engineering, Chemical Engineering, Civil Engineering, Computer Science, Electrical and Computer Engineering, Engineering Physics, Environmental Engineering, Materials Science and Engineering, Mechanical Engineering, Operations Research and Engineering"
+            },
+            {
+                "name": "College of Agriculture and Life Sciences (CALS)",
+                "status": "Transfer Friendly",
+                "notes": "Specialized admissions for College of Agriculture and Life Sciences (CALS).",
+                "majors_desc": "Agricultural Sciences, Animal Science, Atmospheric Science, Biological Sciences, Biology and Society, Biometry and Statistics, Chemistry and Chemical Biology, Communication, Design and Environmental Analysis, Earth and Atmospheric Sciences, Entomology, Environment and Sustainability, Food Science, Global Development, Global and Public Health Sciences, Human Biology, Human Development, Landscape Architecture, Nutritional Sciences, Plant Sciences, Viticulture and Enology."
+            },
+            {
+                "name": "Dyson School of Applied Economics & Management",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Dyson School of Applied Economics & Management.",
+                "majors_desc": "Applied Economics and Management, Fashion Design and Management, Policy Analysis and Management"
+            },
+            {
+                "name": "School of Hotel Administration",
+                "status": "Transfer Friendly",
+                "notes": "Specialized admissions for School of Hotel Administration.",
+                "majors_desc": "Hotel Administration"
+            },
+            {
+                "name": "College of Human Ecology",
+                "status": "Transfer Friendly",
+                "notes": "Specialized admissions for College of Human Ecology.",
+                "majors_desc": "Fiber Science, Health"
+            },
+            {
+                "name": "School of Industrial and Labor Relations (ILR)",
+                "status": "Transfer Friendly",
+                "notes": "Specialized admissions for School of Industrial and Labor Relations (ILR).",
+                "majors_desc": "Industrial and Labor Relations"
+            },
+            {
+                "name": "College of Architecture, Art, and Planning (AAP)",
+                "status": "Competitive",
+                "notes": "Specialized admissions for College of Architecture, Art, and Planning (AAP).",
+                "majors_desc": "Architecture, Fine Arts, History of Art, Performing and Media Arts, Urban and Regional Studies"
+            },
+            {
+                "name": "College of Arts and Sciences (CAS)",
+                "status": "Very Competitive",
+                "notes": "College-specific admissions. 'Any person, any study'. (Main Liberal Arts College)",
+                "majors_desc": "Africana Studies, American Studies, Anthropology, Archaeology, Asian Studies, Astronomy, China and Asia-Pacific Studies, Classics, Cognitive Science, College Scholar Program, Comparative Literature, Economics, English, Feminist, French, Gender, German Studies, Government, History, Information Science, Information Science, Interdisciplinary Studies, Italian, Linguistics, Mathematics, Music, Near Eastern Studies, Philosophy, Physics, Psychology, Religious Studies, Science and Technology Studies, Sociology, Spanish, Statistical Science, Systems, and Sexuality Studies, and Society, and Technology"
+            }
+        ]
+    },
+    {
+        "school": "University of Michigan (UMich)",
+        "url": "https://admissions.umich.edu/apply/transfer-applicants",
+        "colleges": [
+            {
+                "name": "College of Engineering",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for College of Engineering.",
+                "majors_desc": "Aerospace Engineering, Biomedical Engineering, Chemical Engineering, Civil Engineering, Climate and Meteorology, Computer Engineering, Computer Science, Electrical Engineering, Industrial and Operations Engineering, Materials Science and Engineering, Mechanical Engineering, Naval Architecture and Marine Engineering, Nuclear Engineering and Radiological Sciences, Robotics"
+            },
+            {
+                "name": "Ross School of Business",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Ross School of Business.",
+                "majors_desc": "Business Administration"
+            },
+            {
+                "name": "School of Kinesiology",
+                "status": "Competitive",
+                "notes": "Specialized admissions for School of Kinesiology.",
+                "majors_desc": "Sport Management"
+            },
+            {
+                "name": "School of Nursing",
+                "status": "Competitive",
+                "notes": "Specialized admissions for School of Nursing.",
+                "majors_desc": "Nursing"
+            },
+            {
+                "name": "School of Music, Theatre & Dance",
+                "status": "Competitive",
+                "notes": "Specialized admissions for School of Music, Theatre & Dance.",
+                "majors_desc": "Music, Theatre and Drama"
+            },
+            {
+                "name": "Stamps School of Art & Design",
+                "status": "Competitive",
+                "notes": "Specialized admissions for Stamps School of Art & Design.",
+                "majors_desc": "Art and Design"
+            },
+            {
+                "name": "Taubman College of Architecture",
+                "status": "Competitive",
+                "notes": "Specialized admissions for Taubman College of Architecture.",
+                "majors_desc": "Architecture"
+            },
+            {
+                "name": "College of Literature, Science, and the Arts (LSA)",
+                "status": "Transfer Friendly",
+                "notes": "Large public research university. Strong school spirit. (Main Liberal Arts College)",
+                "majors_desc": "Actuarial Mathematics, Afroamerican and African Studies, American Culture, Anthropology, Applied Physics, Asian Studies, Astronomy and Astrophysics, Biochemistry, Biology, Biomolecular Science, Biophysics, Biopsychology, Cell and Molecular Biology, Cellular, Chemistry, Classical Archaeology, Classical Civilization, Cognition, Cognitive Science, Communication and Media, Comparative Literature, Data Science, Earth and Environmental Sciences, East European, Ecology and Evolutionary Biology, Economics, English Language and Literature, Environment, Film, French and Francophone Studies, Gender and Health, General Studies, German, History, History of Art, Informatics, International Studies, Italian, Judaic Studies, Latin American and Caribbean Studies, Latino Studies, Linguistics, Mathematics, Microbiology, Middle East Studies, Molecular, Neuroscience, Pharmaceutical Sciences, Philosophy, Philosophy, Physics, Plant Biology, Polish, Political Science, Politics, Psychology, Public Health, Public Policy, Romance Languages and Literatures, Russian, Russian, Social Theory and Practice, Sociology, Spanish, Statistics, Television, Women's and Gender Studies., and Developmental Biology, and Economics, and Eurasian Studies, and Media, and Neuroscience"
+            }
+        ]
+    },
+    {
+        "school": "Carnegie Mellon University (CMU)",
+        "url": "https://admission.enrollment.cmu.edu/pages/transfer-admission",
+        "colleges": [
+            {
+                "name": "School of Computer Science (SCS)",
+                "status": "Extremely Competitive",
+                "notes": "Specialized admissions for School of Computer Science (SCS).",
+                "majors_desc": "Artificial Intelligence, Computational Biology, Computational Finance, Computer Science, Human-Computer Interaction, Robotics, Statistics and Machine Learning"
+            },
+            {
+                "name": "College of Engineering (CIT)",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for College of Engineering (CIT).",
+                "majors_desc": "Chemical Engineering, Civil and Environmental Engineering, Electrical and Computer Engineering, Materials Science and Engineering, Mechanical Engineering"
+            },
+            {
+                "name": "Tepper School of Business",
+                "status": "Very Competitive",
+                "notes": "Specialized admissions for Tepper School of Business.",
+                "majors_desc": "Business Administration, Economics, Economics and Statistics, Tepper School of Business."
+            },
+            {
+                "name": "Mellon College of Science",
+                "status": "Competitive",
+                "notes": "Specialized admissions for Mellon College of Science.",
+                "majors_desc": "Biological Sciences, Chemistry, Mathematical Sciences, Physics"
+            },
+            {
+                "name": "Dietrich College of Humanities & Social Sciences",
+                "status": "Competitive",
+                "notes": "Known for CS, Engineering, and Arts. Interdisciplinary. (Main Liberal Arts College)",
+                "majors_desc": "Cognitive Science, Decision Science, English, Ethics, Global Studies, History, History, Information Systems, International Relations and Politics, Linguistics, Logic and Computation, Neuroscience, Philosophy, Policy and Management, Psychology, Social and Political History, Statistics, Technical Writing and Communication, and Public Policy"
+            },
+            {
+                "name": "College of Fine Arts",
+                "status": "Competitive",
+                "notes": "Specialized admissions for College of Fine Arts.",
+                "majors_desc": "Music"
+            }
+        ]
+    }
+]

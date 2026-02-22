@@ -1,0 +1,367 @@
+{
+    "current_school": "University of Illinois Urbana-Champaign (UIUC)",
+    "current_year": "Freshman",
+    "class_of": "2029",
+    "transfer_term": "Fall 2026",
+    "college": "ACES (College of Agricultural, Consumer and Environmental Sciences)",
+    "track": "Undecided",
+    "target_schools": [
+        "Duke University",
+        "Brown University",
+        "Johns Hopkins University (JHU)",
+        "Northwestern University",
+        "Columbia University",
+        "Cornell University",
+        "University of Chicago (UChicago)",
+        "Dartmouth College",
+        "University of Michigan (UMich)",
+        "Carnegie Mellon University (CMU)"
+    ],
+    "interests": [
+        "Agricultural and Biological Engineering",
+        "Research",
+        "Interdisciplinary Studies",
+        "environmental sciences"
+    ],
+    "courses_taken": [
+        "MATH 221 Calculus I",
+        "CHEM 102 General Chemistry I",
+        "ACES 123 ACES Orientation to Illinois",
+        "LEAD 260 Foundations of Leadership",
+        "CLCV 224 Greco-Roman Antiquity and US Minority Cultures",
+        "ABE 127 Introduction to Agricultural & Biological Engineering"
+    ],
+    "courses_in_progress": [
+        "ABE128 Applied Biology for Agricultural and Biological Engineers",
+        "MATH231 Calculus II",
+        "PHYS 211 University Physics: Mechanics",
+        "RHET 105 Writing and Research",
+        "ARTD 217 Graphic Design for Non-Majors"
+    ],
+    "school_specific_majors": {
+        "Carnegie Mellon University (CMU)": "Civil and Environmental Engineering",
+        "University of Michigan (UMich)": "Earth and Environmental Sciences, Ecology and Evolutionary Biology, Environment",
+        "Cornell University": "Agricultural Sciences, Design and Environmental Analysis, Environment and Sustainability, Food Science",
+        "Northwestern University": "Environmental Policy and Culture, Environmental Sciences",
+        "University of Chicago (UChicago)": "Environment, Environmental Science",
+        "Brown University": "Environmental, Environmental Studies",
+        "Columbia University": "Environmental Biology, Environmental Science",
+        "Dartmouth College": "Environmental Earth Sciences, Environmental Studies",
+        "Duke University": "Environmental Sciences, Environmental Sciences & Policy",
+        "Johns Hopkins University (JHU)": "Environmental Science, Environmental Studies, Global Environmental Change and Sustainability, Interdisciplinary Studies"
+    },
+    "school_major_urls": {
+        "Brown University": {
+            "majors": {
+                "Environmental": {
+                    "url": "https://deeps.brown.edu/",
+                    "title": "Department of Earth, Environmental & Planetary Sciencesdeeps.brown.eduBrown University - Department of Earth, Environmental ...",
+                    "faculty_url": "https://deeps.brown.edu/people/faculty",
+                    "faculty_title": "Department of Earth, Environmental & Planetary Sciencesdeeps.brown.edu \u203a people \u203a facultyFaculty | Department of Earth ... - Brown University",
+                    "courses_url": "https://cehab.brown.edu/course-catalog",
+                    "courses_title": "cehab.brown.educehab.brown.edu \u203a course-catalogCourses | Center for Environmental ... - Brown University",
+                    "research_url": "https://deeps.brown.edu/research-areas/environmental-science",
+                    "research_title": "Department of Earth, Environmental & Planetary Sciencesdeeps.brown.edu \u203a research-areas \u203a environmental-scienceEnvironmental Science | Department of ... - Brown University"
+                },
+                "Environmental Studies": {
+                    "url": "https://www.brown.edu/undergraduate-programs/environmental-sciences-and-studies-ab-scb",
+                    "title": "Brown Universitywww.brown.edu \u203a undergraduate-programsEnvironmental Sciences and Studies - Brown University",
+                    "faculty_url": "https://deeps.brown.edu/people/faculty",
+                    "faculty_title": "Department of Earth, Environmental & Planetary Sciencesdeeps.brown.edu \u203a people \u203a facultyFaculty | Department of Earth ... - Brown University",
+                    "courses_url": "https://cehab.brown.edu/course-catalog",
+                    "courses_title": "cehab.brown.educehab.brown.edu \u203a course-catalogCourses | Center for Environmental ... - Brown University",
+                    "research_url": "https://deeps.brown.edu/research-areas/environmental-science",
+                    "research_title": "Department of Earth, Environmental & Planetary Sciencesdeeps.brown.edu \u203a research-areas \u203a environmental-scienceEnvironmental Science | Department of ... - Brown University"
+                }
+            }
+        },
+        "Carnegie Mellon University (CMU)": {
+            "majors": {
+                "Civil and Environmental Engineering": {
+                    "url": "https://cee.engineering.cmu.edu/",
+                    "title": "cee.engineering.cmu.educee.engineering.cmu.eduCarnegie Mellon University - Civil and Environmental Engineering",
+                    "faculty_url": "https://cee.engineering.cmu.edu/directory/index.html",
+                    "faculty_title": "cee.engineering.cmu.educee.engineering.cmu.edu \u203a directory \u203a indexDirectory - Carnegie Mellon University",
+                    "courses_url": "http://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/courses/",
+                    "courses_title": "Carnegie Mellon Universitycoursecatalog.web.cmu.edu \u203a schools-colleges \u203a collegeofDepartment of Civil and Environmental Engineering Courses",
+                    "research_url": "https://cee.engineering.cmu.edu/",
+                    "research_title": "cee.engineering.cmu.educee.engineering.cmu.eduCivil and Environmental Engineering"
+                }
+            }
+        },
+        "Columbia University": {
+            "majors": {
+                "Environmental Biology": {
+                    "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/environmental-biology/",
+                    "title": "Columbia Universitybulletin.columbia.edu \u203a environmental-biologyEnvironmental Biology - Columbia University",
+                    "faculty_url": "https://e3b.columbia.edu/faculty",
+                    "faculty_title": "e3b.columbia.edue3b.columbia.edu \u203a facultyOur Faculty | Ecology, Evolution and Environmental Biology (E3B)",
+                    "courses_url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/environmental-biology/",
+                    "courses_title": "Columbia Universitybulletin.columbia.edu \u203a environmental-biologyEnvironmental Biology - Columbia University",
+                    "research_url": "https://e3b.columbia.edu/content/labs",
+                    "research_title": "e3b.columbia.edue3b.columbia.edu \u203a content \u203a labsLabs | Ecology, Evolution and Environmental Biology (E3B)"
+                },
+                "Environmental Science": {
+                    "url": "https://eesc.columbia.edu/",
+                    "title": "Department of Earth and Environmental Scienceseesc.columbia.eduColumbia University - Department of Earth and Environmental ...",
+                    "faculty_url": "https://eesc.columbia.edu/content/faculty",
+                    "faculty_title": "Department of Earth and Environmental Scienceseesc.columbia.edu \u203a content \u203a facultyFaculty | Department of Earth and Environmental Sciences",
+                    "courses_url": "https://eesc.columbia.edu/content/eesc-courses-0",
+                    "courses_title": "Department of Earth and Environmental Scienceseesc.columbia.edu \u203a content \u203a eesc-courses-0EESC Courses | Department of Earth and Environmental Sciences",
+                    "research_url": "https://eesc.columbia.edu/",
+                    "research_title": "Department of Earth and Environmental Scienceseesc.columbia.eduColumbia University - Department of Earth and Environmental ..."
+                }
+            }
+        },
+        "Cornell University": {
+            "majors": {
+                "Agricultural Sciences": {
+                    "url": "https://cals.cornell.edu/discover/agriculture",
+                    "title": "Cornell CALScals.cornell.eduCornell CALS - College of Agriculture and Life Sciences",
+                    "faculty_url": "https://cals.cornell.edu/education/degrees-programs/agricultural-sciences-major/agricultural-sciences-faculty-advisors",
+                    "faculty_title": "Cornell CALScals.cornell.edu \u203a education \u203a degrees-programsAgricultural Sciences Faculty Advisors - Cornell CALS",
+                    "courses_url": "https://catalog.cornell.edu/agriculture-life-sciences/",
+                    "courses_title": "catalog.cornell.educatalog.cornell.edu \u203a agriculture-life-sciencesCollege of Agriculture and Life Sciences | Cornell University",
+                    "research_url": "https://cals.cornell.edu/agricultural-experiment-station",
+                    "research_title": "Cornell CALScals.cornell.edu \u203a agricultural-experiment-stationCornell University Agricultural Experiment Station | CALS"
+                },
+                "Design and Environmental Analysis": {
+                    "url": "https://human.cornell.edu/degrees/design-environmental-analysis",
+                    "title": "Cornell College of Human Ecologyhuman.cornell.edu \u203a design-environmental-analysisB.S. Design + Environmental Analysis | Cornell Human Ecology",
+                    "faculty_url": "https://deanoffaculty.cornell.edu/departments/design-environmental-analysis/",
+                    "faculty_title": "deanoffaculty.cornell.edudeanoffaculty.cornell.edu \u203a departments \u203a designDesign & Environmental Analysis Archives - Office of the Dean ...",
+                    "courses_url": "https://catalog.cornell.edu/courses/dea/",
+                    "courses_title": "catalog.cornell.educatalog.cornell.edu \u203a courses \u203a deaDesign & Environmental Analysis (DEA) | Cornell University",
+                    "research_url": "https://dilab.human.cornell.edu/",
+                    "research_title": "dilab.human.cornell.edudilab.human.cornell.eduDUET Lab"
+                },
+                "Environment and Sustainability": {
+                    "url": "https://cals.cornell.edu/environment-sustainability",
+                    "title": "Cornell CALScals.cornell.edu \u203a environment-sustainabilityEnvironment & Sustainability | CALS",
+                    "faculty_url": "https://cals.cornell.edu/environment-sustainability/about/people/faculty",
+                    "faculty_title": "Cornell CALScals.cornell.edu \u203a environment-sustainabilityFaculty Advisors | Environment & Sustainability - Cornell CALS",
+                    "courses_url": "https://catalog.cornell.edu/programs/environment-sustainability-ba/",
+                    "courses_title": "catalog.cornell.educatalog.cornell.edu \u203a programs \u203a environmentEnvironment & Sustainability (BA) | Cornell University",
+                    "research_url": "https://cals.cornell.edu/natural-resources-environment/research",
+                    "research_title": "Cornell CALScals.cornell.edu \u203a natural-resources-environmentResearch | Natural Resources and the Environment - CALS"
+                },
+                "Food Science": {
+                    "url": "https://cals.cornell.edu/food-science",
+                    "title": "Cornell CALScals.cornell.edu \u203a food-scienceFood Science - Cornell CALS",
+                    "faculty_url": "https://cals.cornell.edu/food-science/about/people",
+                    "faculty_title": "Cornell CALScals.cornell.edu \u203a food-science \u203a aboutPeople - Cornell CALS",
+                    "courses_url": "https://courses.cornell.edu/programs/food-science-bs/",
+                    "courses_title": "Cornell University Courses of Studycourses.cornell.edu \u203a programs \u203a food-science-bsFood Science (BS) | Cornell University",
+                    "research_url": "https://cals.cornell.edu/food-science/research",
+                    "research_title": "Cornell CALScals.cornell.edu \u203a food-science \u203a researchResearch - Cornell CALS"
+                }
+            }
+        },
+        "Dartmouth College": {
+            "majors": {
+                "Environmental Earth Sciences": {
+                    "url": "https://earthsciences.dartmouth.edu/",
+                    "title": "earthsciences.dartmouth.eduearthsciences.dartmouth.eduHome | Department of Earth Science",
+                    "faculty_url": "https://earthsciences.dartmouth.edu/people",
+                    "faculty_title": "earthsciences.dartmouth.eduearthsciences.dartmouth.edu \u203a peoplePeople | Department of Earth Science",
+                    "courses_url": "https://earthsciences.dartmouth.edu/undergraduate/curriculum",
+                    "courses_title": "earthsciences.dartmouth.eduearthsciences.dartmouth.edu \u203a undergraduate \u203a curriculumCurriculum | Department of Earth Science",
+                    "research_url": "https://earthsciences.dartmouth.edu/research/labs-facilities",
+                    "research_title": "earthsciences.dartmouth.eduearthsciences.dartmouth.edu \u203a research \u203a labs-facilitiesLabs & Facilities | Department of Earth Science"
+                },
+                "Environmental Studies": {
+                    "url": "https://envs.dartmouth.edu/",
+                    "title": "Environmental Studiesenvs.dartmouth.eduEnvironmental Studies",
+                    "faculty_url": "https://envs.dartmouth.edu/people",
+                    "faculty_title": "Environmental Studiesenvs.dartmouth.edu \u203a peoplePeople - Environmental Studies",
+                    "courses_url": "https://envs.dartmouth.edu/undergraduate/courses",
+                    "courses_title": "Environmental Studiesenvs.dartmouth.edu \u203a undergraduate \u203a coursesCourses | Environmental Studies",
+                    "research_url": "https://envs.dartmouth.edu/research/research",
+                    "research_title": "Environmental Studiesenvs.dartmouth.edu \u203a researchResearch - Environmental Studies"
+                }
+            }
+        },
+        "Duke University": {
+            "majors": {
+                "Environmental Sciences": {
+                    "url": "https://nicholas.duke.edu/",
+                    "title": "Nicholas School of the Environmentnicholas.duke.eduNicholas School of the Environment | Duke University",
+                    "faculty_url": "https://nicholas.duke.edu/people/faculty",
+                    "faculty_title": "Nicholas School of the Environmentnicholas.duke.edu \u203a people \u203a facultyFaculty - Nicholas School of the Environment",
+                    "courses_url": "https://undergraduate.bulletins.duke.edu/allprograms/bachelors2/u-envs-bs",
+                    "courses_title": "Undergraduate Instruction Bulletinundergraduate.bulletins.duke.edu \u203a allprogramsEnvironmental Sciences (BS) (U-ENVS-BS) | 25-26 Undergraduate ...",
+                    "research_url": "https://nicholas.duke.edu/research/labs-centers",
+                    "research_title": "Nicholas School of the Environmentnicholas.duke.edu \u203a research \u203a labs-centersLabs & Centers - Nicholas School of the Environment"
+                },
+                "Environmental Sciences & Policy": {
+                    "url": "https://nicholas.duke.edu/academics/undergraduate-programs/environmental-sciences-policy",
+                    "title": "Nicholas School of the Environmentnicholas.duke.edu \u203a environmental-sciences-policyEnvironmental Sciences & Policy - Nicholas School of the ...",
+                    "faculty_url": "https://nicholas.duke.edu/people/faculty",
+                    "faculty_title": "Nicholas School of the Environmentnicholas.duke.edu \u203a people \u203a facultyFaculty - Nicholas School of the Environment",
+                    "courses_url": "https://nicholas.duke.edu/academics/undergraduate-programs/environmental-sciences-policy",
+                    "courses_title": "Nicholas School of the Environmentnicholas.duke.edu \u203a environmental-sciences-policyEnvironmental Sciences & Policy - Nicholas School of the ...",
+                    "research_url": "https://nicholas.duke.edu/research/labs-centers",
+                    "research_title": "Nicholas School of the Environmentnicholas.duke.edu \u203a research \u203a labs-centersLabs & Centers - Nicholas School of the Environment"
+                }
+            }
+        },
+        "Johns Hopkins University (JHU)": {
+            "majors": {
+                "Environmental Science": {
+                    "url": "https://krieger.jhu.edu/envs/",
+                    "title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envsEnvironmental Science & Studies | Johns Hopkins University",
+                    "faculty_url": "https://krieger.jhu.edu/envs/people/",
+                    "faculty_title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envs \u203a peoplePeople | Environmental Science & Studies | Johns Hopkins ...",
+                    "courses_url": "https://krieger.jhu.edu/envs/academics/courses/",
+                    "courses_title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envs \u203a academicsCourses | Environmental Science & Studies | Johns Hopkins ...",
+                    "research_url": "https://publichealth.jhu.edu/departments/environmental-health-and-engineering/research-and-practice/our-labs",
+                    "research_title": "Johns Hopkins Bloomberg School of Public Healthpublichealth.jhu.edu \u203a departments \u203a environmentalOur Labs | Johns Hopkins Bloomberg School of Public Health"
+                },
+                "Environmental Studies": {
+                    "url": "https://krieger.jhu.edu/envs/",
+                    "title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envsEnvironmental Science & Studies | Johns Hopkins University",
+                    "faculty_url": "https://krieger.jhu.edu/envs/people/",
+                    "faculty_title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envs \u203a peoplePeople | Environmental Science & Studies | Johns Hopkins ...",
+                    "courses_url": "https://krieger.jhu.edu/envs/academics/courses/",
+                    "courses_title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envs \u203a academicsCourses | Environmental Science & Studies | Johns Hopkins ...",
+                    "research_url": "https://krieger.jhu.edu/envs/",
+                    "research_title": "Krieger School of Arts & Scienceskrieger.jhu.edu \u203a envsEnvironmental Science & Studies | Johns Hopkins University"
+                },
+                "Global Environmental Change and Sustainability": {
+                    "url": "https://sustainability.jhu.edu/",
+                    "title": "sustainability.jhu.edusustainability.jhu.eduHome - JHU Climate & Sustainability",
+                    "faculty_url": "https://sustainability.jhu.edu/",
+                    "faculty_title": "sustainability.jhu.edusustainability.jhu.eduHome - JHU Climate & Sustainability",
+                    "courses_url": "https://sustainability.jhu.edu/",
+                    "courses_title": "sustainability.jhu.edusustainability.jhu.eduHome - JHU Climate & Sustainability",
+                    "research_url": "https://sustainability.jhu.edu/",
+                    "research_title": "sustainability.jhu.edusustainability.jhu.eduHome - JHU Climate & Sustainability"
+                },
+                "Interdisciplinary Studies": {
+                    "url": "https://apply.jhu.edu/academics/majors-minors-programs/interdisciplinary-studies/",
+                    "title": "Johns Hopkins Universityapply.jhu.edu \u203a interdisciplinary-studiesInterdisciplinary Studies | Johns Hopkins Admission",
+                    "faculty_url": "https://sais.jhu.edu/faculty-research/faculty-directory",
+                    "faculty_title": "Johns Hopkins SAISsais.jhu.edu \u203a faculty-research \u203a faculty-directoryFaculty Directory - Johns Hopkins SAIS",
+                    "courses_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/interdisciplinary-studies/",
+                    "courses_title": "Johns Hopkins Universitye-catalogue.jhu.edu \u203a interdisciplinary-studiesInterdisciplinary Studies | Johns Hopkins University Academic ...",
+                    "research_url": "https://www.hopkinsmedicine.org/research/labs/",
+                    "research_title": "Johns Hopkins Medicinewww.hopkinsmedicine.org \u203a research \u203a labsLabs | Johns Hopkins Medicine"
+                }
+            }
+        },
+        "Northwestern University": {
+            "majors": {
+                "Environmental Policy and Culture": {
+                    "url": "https://epc.northwestern.edu/",
+                    "title": "epc.northwestern.eduepc.northwestern.eduNorthwestern University - Environmental Policy and Culture",
+                    "faculty_url": "https://epc.northwestern.edu/people/staff.html",
+                    "faculty_title": "epc.northwestern.eduepc.northwestern.edu \u203a people \u203a staffProgram Faculty and Staff: Program in Environmental Policy ...",
+                    "courses_url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/environmental-policy-culture/",
+                    "courses_title": "Northwestern Universitycatalogs.northwestern.edu \u203a undergraduate \u203a artsEnvironmental Policy and Culture | Northwestern University ...",
+                    "research_url": "https://epc.northwestern.edu/",
+                    "research_title": "epc.northwestern.eduepc.northwestern.eduNorthwestern University - Environmental Policy and Culture"
+                },
+                "Environmental Sciences": {
+                    "url": "https://www.deeps.northwestern.edu/",
+                    "title": "deeps.northwestern.eduwww.deeps.northwestern.eduNorthwestern University - Department of Earth, Environmental ...",
+                    "faculty_url": "https://www.deeps.northwestern.edu/our-people/",
+                    "faculty_title": "deeps.northwestern.eduwww.deeps.northwestern.edu \u203a our-peopleOur People: Department of Earth, Environmental, and Planetary ...",
+                    "courses_url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/environmental-sciences/",
+                    "courses_title": "Northwestern Universitycatalogs.northwestern.edu \u203a environmental-sciencesEnvironmental Sciences | Northwestern University Academic Catalog",
+                    "research_url": "https://www.deeps.northwestern.edu/",
+                    "research_title": "deeps.northwestern.eduwww.deeps.northwestern.eduNorthwestern University - Department of Earth, Environmental ..."
+                }
+            }
+        },
+        "University of Chicago (UChicago)": {
+            "majors": {
+                "Environment": {
+                    "url": "https://safety.uchicago.edu/about/",
+                    "title": "The University of Chicago Environmental Health and Safetysafety.uchicago.edu \u203a aboutAbout Us | The University of Chicago Environmental Health and ...",
+                    "faculty_url": "https://directory.uchicago.edu/",
+                    "faculty_title": "The University of Chicagodirectory.uchicago.eduPeople Search | Online Directory | The University of Chicago",
+                    "courses_url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+                    "courses_title": "University of Chicago Catalogcollegecatalog.uchicago.edu \u203a thecollege \u203a environmentalscienceEnvironmental Science | Academic Catalog - University of Chicago",
+                    "research_url": "https://urbanlabs.uchicago.edu/labs/energy-environment",
+                    "research_title": "UChicago Urban Labsurbanlabs.uchicago.edu \u203a labs \u203a energy-environmentEnergy & Environment Lab | UChicago Urban Labs"
+                },
+                "Environmental Science": {
+                    "url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+                    "title": "University of Chicago Catalogcollegecatalog.uchicago.edu \u203a thecollege \u203a environmentalscienceEnvironmental Science | Academic Catalog - University of Chicago",
+                    "faculty_url": "https://directory.uchicago.edu/",
+                    "faculty_title": "The University of Chicagodirectory.uchicago.eduPeople Search | Online Directory | The University of Chicago",
+                    "courses_url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+                    "courses_title": "University of Chicago Catalogcollegecatalog.uchicago.edu \u203a thecollege \u203a environmentalscienceEnvironmental Science | Academic Catalog - University of Chicago",
+                    "research_url": "https://urbanlabs.uchicago.edu/labs/energy-environment",
+                    "research_title": "UChicago Urban Labsurbanlabs.uchicago.edu \u203a labs \u203a energy-environmentEnergy & Environment Lab | UChicago Urban Labs"
+                }
+            }
+        },
+        "University of Michigan (UMich)": {
+            "majors": {
+                "Earth and Environmental Sciences": {
+                    "url": "https://lsa.umich.edu/earth",
+                    "title": "College of LSAlsa.umich.edu \u203a earthEarth and Environmental Sciences | U-M LSA",
+                    "faculty_url": "https://lsa.umich.edu/earth/people/faculty.directory.html",
+                    "faculty_title": "College of LSAlsa.umich.edu \u203a earth \u203a peopleFaculty | U-M LSA Earth and Environmental Sciences",
+                    "courses_url": "https://lsa.umich.edu/earth/courses.html",
+                    "courses_title": "College of LSAlsa.umich.edu \u203a earth \u203a coursesCourses | U-M LSA Earth and Environmental Sciences",
+                    "research_url": "https://lsa.umich.edu/earth/research.html",
+                    "research_title": "College of LSAlsa.umich.edu \u203a earth \u203a researchResearch | U-M LSA Earth and Environmental Sciences"
+                },
+                "Ecology and Evolutionary Biology": {
+                    "url": "https://lsa.umich.edu/eeb/",
+                    "title": "College of LSAlsa.umich.edu \u203a eebEcology and Evolutionary Biology (EEB) | U-M LSA",
+                    "faculty_url": "https://lsa.umich.edu/eeb/people/faculty.directory.html",
+                    "faculty_title": "College of LSAlsa.umich.edu \u203a eeb \u203a peopleFaculty | U-M LSA Ecology and Evolutionary Biology (EEB)",
+                    "courses_url": "https://lsa.umich.edu/eeb/undergraduates/courses.html",
+                    "courses_title": "College of LSAlsa.umich.edu \u203a eeb \u203a undergraduatesCourses | U-M LSA Ecology and Evolutionary Biology (EEB)",
+                    "research_url": "https://lsa.umich.edu/eeb/",
+                    "research_title": "College of LSAlsa.umich.edu \u203a eebEcology and Evolutionary Biology (EEB) | U-M LSA"
+                },
+                "Environment": {
+                    "url": "https://seas.umich.edu/",
+                    "title": "seas.umich.eduseas.umich.eduUniversity of Michigan School for Environment and Sustainability",
+                    "faculty_url": "https://seas.umich.edu/research/faculty",
+                    "faculty_title": "seas.umich.eduseas.umich.edu \u203a research \u203a facultyFaculty | University of Michigan School for Environment and ...",
+                    "courses_url": "https://seas.umich.edu/academics/courses",
+                    "courses_title": "seas.umich.eduseas.umich.edu \u203a academics \u203a coursesCourses | University of Michigan School for Environment and ...",
+                    "research_url": "https://seas.umich.edu/research-impact/labs",
+                    "research_title": "seas.umich.eduseas.umich.edu \u203a research-impact \u203a labsLabs | University of Michigan School for Environment and ..."
+                }
+            }
+        }
+    },
+    "college_majors": {
+        "Brown University": {
+            "The College": "Environmental, Environmental Studies"
+        },
+        "Carnegie Mellon University (CMU)": {
+            "College of Engineering (CIT)": "Civil and Environmental Engineering"
+        },
+        "Columbia University": {
+            "Columbia College": "Environmental Biology, Environmental Science"
+        },
+        "Cornell University": {
+            "College of Agriculture and Life Sciences (CALS)": "Agricultural Sciences, Design and Environmental Analysis, Environment and Sustainability, Food Science"
+        },
+        "Dartmouth College": {
+            "The College": "Environmental Earth Sciences, Environmental Studies"
+        },
+        "Duke University": {
+            "Trinity College of Arts & Sciences": "Environmental Sciences, Environmental Sciences & Policy"
+        },
+        "Johns Hopkins University (JHU)": {
+            "Krieger School of Arts and Sciences": "Environmental Science, Environmental Studies, Global Environmental Change and Sustainability, Interdisciplinary Studies"
+        },
+        "Northwestern University": {
+            "Weinberg College of Arts and Sciences": "Environmental Policy and Culture, Environmental Sciences"
+        },
+        "University of Chicago (UChicago)": {
+            "The College": "Environment, Environmental Science"
+        },
+        "University of Michigan (UMich)": {
+            "College of Literature, Science, and the Arts (LSA)": "Earth and Environmental Sciences, Ecology and Evolutionary Biology, Environment"
+        }
+    }
+}

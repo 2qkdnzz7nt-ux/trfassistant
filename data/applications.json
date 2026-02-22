@@ -1,0 +1,92 @@
+{
+    "University of Michigan (UMich)": {
+        "deadline": "2026-02-01",
+        "supp_deadline": "2026-02-01",
+        "decision_date": "mid-April",
+        "major": "\u2022 Environment and Conservation \u2022 Environment \u2022 Earth and Environmental Sciences \u2022 Ecology, Evolution, and Biodiversity",
+        "status": "Submitted",
+        "notes": "",
+        "materials_complete": true
+    },
+    "Carnegie Mellon University (CMU)": {
+        "deadline": "2026-02-16",
+        "supp_deadline": "2026-03-01",
+        "decision_date": "May 17",
+        "major": "civil and environmental engineering",
+        "status": "Submitted",
+        "notes": "",
+        "materials_complete": false
+    },
+    "Duke University": {
+        "deadline": "2026-03-15",
+        "supp_deadline": "2026-03-15",
+        "decision_date": "",
+        "major": "",
+        "status": "Not Started",
+        "notes": "Every fall, approximately 70 students transfer into Duke from another college or university. Most will enroll as sophomores, although the selection committee will also admit a small number of juniors. While transfer students are new to the Duke community, they bring with them the same characteristics of talent and engagement as the rest of their undergraduate peers.",
+        "materials_complete": false
+    },
+    "Brown University": {
+        "deadline": "2026-03-02",
+        "supp_deadline": "2026-03-09",
+        "decision_date": "Mid-May",
+        "major": "",
+        "status": "Not Started",
+        "notes": "",
+        "materials_complete": false
+    },
+    "Johns Hopkins University (JHU)": {
+        "deadline": "2026-03-01",
+        "supp_deadline": "2026-03-01",
+        "decision_date": "5\u67088\u65e5",
+        "major": "",
+        "status": "Not Started",
+        "notes": "",
+        "materials_complete": false
+    },
+    "Northwestern University": {
+        "deadline": "2026-03-02",
+        "supp_deadline": "2026-03-02",
+        "decision_date": "Early April 2026",
+        "major": "",
+        "status": "Not Started",
+        "notes": "ED",
+        "materials_complete": false
+    },
+    "Columbia University": {
+        "deadline": "2026-03-01",
+        "supp_deadline": "2026-03-01",
+        "decision_date": "6\u67081\u65e5",
+        "major": "",
+        "status": "Not Started",
+        "notes": "",
+        "materials_complete": false
+    },
+    "Cornell University": {
+        "deadline": "2026-03-15",
+        "supp_deadline": "2026-04-15",
+        "decision_date": "\u56db\u6708\u5e95\u81f3\u516d\u6708",
+        "major": "",
+        "status": "Not Started",
+        "notes": "",
+        "materials_complete": false
+    },
+    "University of Chicago (UChicago)": {
+        "deadline": "2026-03-02",
+        "supp_deadline": "2026-03-15",
+        "decision_date": "early May",
+        "major": "",
+        "status": "Not Started",
+        "notes": "",
+        "materials_complete": false
+    },
+    "Dartmouth College": {
+        "deadline": "2026-03-01",
+        "supp_deadline": "2026-03-01",
+        "decision_date": "Mid-May",
+        "major": "",
+        "status": "Not Started",
+        "notes": "For students attending high school in the United States\nStudents who attend(ed) high school within the United States must submit results of either the SAT or ACT. Dartmouth has no institutional preference for either test. Scores from multiple administrations of the SAT or the ACT will automatically be superscored, meaning we will consider the highest result on individual sections of either exam regardless of the test date or testing format.",
+        "materials_complete": false
+    }
+}

@@ -1,0 +1,227 @@
+[
+    {
+        "school": "Duke University",
+        "source_url": "https://admissions.duke.edu/apply/",
+        "prompts": [
+            {
+                "type": "Required Transfer Essay (Reason for Transfer)",
+                "prompt": "We would like to understand more about you and your reason(s) for transferring. Why and how did you choose your current or most recent college or university and what do you hope to gain by transferring?",
+                "word_limit": "650 words"
+            },
+            {
+                "type": "Required Academic Essay",
+                "prompt": "Duke University offers students the opportunity to choose up to three academic pathways through majors, minors, and certificates. Describe how you intend to explore your academic and intellectual interests at Duke University.",
+                "word_limit": "250 words"
+            }
+        ]
+    },
+    {
+        "school": "Brown University",
+        "source_url": "https://admission.brown.edu/transfer/application-checklist",
+        "prompts": [
+            {
+                "type": "Common App Personal Statement",
+                "prompt": "Please provide a statement that addresses your reasons for transferring and the objectives you hope to achieve.",
+                "word_limit": "650 words"
+            },
+            {
+                "type": "Brown Specific Essay 1 (Open Curriculum)",
+                "prompt": "Brown’s Open Curriculum allows students to explore broadly while also diving deeply into their academic pursuits. Tell us about any academic interests that excite you, and how you might pursue them at Brown.",
+                "word_limit": "200-250 words"
+            },
+            {
+                "type": "Brown Specific Essay 2 (Background)",
+                "prompt": "Students entering Brown often find that making their home on College Hill naturally invites reflection on where they came from. Share how an aspect of your growing up has inspired or challenged you, and what unique contributions this might allow you to make to the Brown community.",
+                "word_limit": "200-250 words"
+            },
+            {
+                "type": "Brown Specific Essay 3 (Joy)",
+                "prompt": "Brown students care deeply about their work and the world around them. Students find contentment, satisfaction, and meaning in daily interactions and major discoveries. Whether big or small, mundane or spectacular, tell us about something that brings you joy.",
+                "word_limit": "200-250 words"
+            },
+            {
+                "type": "Short Answer 1 (Three Words)",
+                "prompt": "What three words best describe you?",
+                "word_limit": "3 words"
+            },
+            {
+                "type": "Short Answer 2 (Teach a Class)",
+                "prompt": "If you could teach a class on any one thing, whether academic or otherwise, what would it be?",
+                "word_limit": "100 words"
+            },
+            {
+                "type": "Short Answer 3 (Why Brown)",
+                "prompt": "In one sentence, Why Brown?",
+                "word_limit": "50 words"
+            }
+        ]
+    },
+    {
+        "school": "Johns Hopkins University (JHU)",
+        "source_url": "https://apply.jhu.edu/how-to-apply/transfer-students/transfer-application-deadlines-requirements/",
+        "prompts": [
+            {
+                "type": "JHU Specific Essay (2025-2026)",
+                "prompt": "Over the past 150 years, every monumental discovery at Hopkins has started with a first step: The first draft by a Pulitzer Prize-winning author. A prototype that led to a life-changing medical invention. The first pitch that launched a new startup venture. As we commemorate the university’s sesquicentennial—150 years since its founding—we continue to celebrate first steps just as much as final achievements. Tell us about an important first in your life—big or small—that has shaped you.",
+                "word_limit": "350 words"
+            }
+        ]
+    },
+    {
+        "school": "Northwestern University",
+        "source_url": "https://admissions.northwestern.edu/apply/requirements.html",
+        "prompts": [
+            {
+                "type": "Required Transfer Essay 1 (Personal Experiences)",
+                "prompt": "We want to be sure we’re considering your application in the context of your personal experiences: What aspects of your background, your identity, or your school, community, and/or household settings have most shaped how you see yourself engaging in Northwestern’s community, be it academically, extracurricularly, culturally, politically, socially, or otherwise?",
+                "word_limit": "300 words"
+            },
+            {
+                "type": "Required Transfer Essay 2 (Why Transfer)",
+                "prompt": "Please share with us why you would like to transfer to Northwestern.",
+                "word_limit": "300 words"
+            }
+        ]
+    },
+    {
+        "school": "Columbia University",
+        "source_url": "https://undergrad.admissions.columbia.edu/apply/transfer",
+        "prompts": [
+            {
+                "type": "List Question",
+                "prompt": "List a selection of texts, resources and outlets that have contributed to your intellectual development outside of academic courses, including but not limited to books, journals, websites, podcasts, essays, plays, presentations, videos, museums and other content that you enjoy.",
+                "word_limit": "100 words"
+            },
+            {
+                "type": "Short Answer 1 (Community)",
+                "prompt": "Tell us about an aspect of your life so far or your lived experience that is important to you, and describe how it has shaped the way you would learn from and contribute to Columbia's multidimensional and collaborative environment.",
+                "word_limit": "150 words"
+            },
+            {
+                "type": "Short Answer 2 (Disagreement)",
+                "prompt": "At Columbia, students representing a wide range of perspectives are invited to live and learn together. In such a community, questions and debates naturally arise. Please describe a time when you did not agree with someone and discuss how you engaged with them and what you took away from the interaction.",
+                "word_limit": "150 words"
+            },
+            {
+                "type": "Short Answer 3 (Adversity)",
+                "prompt": "In college/university, students are often challenged in ways that they could not anticipate. Please describe a situation in which you have navigated through adversity and discuss how you changed as a result.",
+                "word_limit": "150 words"
+            },
+            {
+                "type": "Short Answer 4 (Why Columbia)",
+                "prompt": "Why are you interested in attending Columbia University? We encourage you to consider the aspect(s) that you find unique and compelling about Columbia.",
+                "word_limit": "150 words"
+            },
+            {
+                "type": "Short Answer 5 (Why Major)",
+                "prompt": "What attracts you to your preferred areas of study at Columbia College or Columbia Engineering?",
+                "word_limit": "150 words"
+            }
+        ]
+    },
+    {
+        "school": "Cornell University",
+        "source_url": "https://admissions.cornell.edu/how-to-apply/transfer-applicants/cornell-transfer-writing-supplement-prompts",
+        "prompts": [
+            {
+                "type": "Cornell University Essay Question",
+                "prompt": "We all contribute to, and are influenced by, the communities that are meaningful to us. Share how you’ve been shaped by one of the communities you belong to. Define community in the way that is most meaningful to you. This community example can be drawn from your family, school, workplace, activities or interests, or any other group you belong to.",
+                "word_limit": "350 words"
+            },
+            {
+                "type": "College Specific (CALS)",
+                "prompt": "By applying to Cornell’s College of Agriculture and Life Sciences (CALS), you are also applying for direct entry into one of our 20 majors. From here, you would be part of a community dedicated to purpose-driven science; working within your major and across disciplines to tackle the complex challenges of our time. Why are you drawn to studying the major you have selected and specifically, why do you want to pursue this major at Cornell CALS? You should share how your current interests, related experiences, and/or goals influenced your choice.",
+                "word_limit": "500 words"
+            },
+            {
+                "type": "College Specific (Engineering)",
+                "prompt": "Engineering applicants are required to write two long essays (200 words) and four short essays (100 words). \nLong 1: Fundamentally, engineering is the application of math, science, and technology to solve complex problems. Why do you want to study engineering?\nLong 2: Why do you think you would love to study at Cornell Engineering?\nShort 1: What brings you joy?\nShort 2: What do you believe you will contribute to the Cornell Engineering community?\nShort 3: What is one activity... especially meaningful to you?\nShort 4: What is one award... that has meant the most to you?",
+                "word_limit": "Various"
+            }
+        ]
+    },
+    {
+        "school": "University of Chicago (UChicago)",
+        "source_url": "https://collegeadmissions.uchicago.edu/apply/transfer-applicants",
+        "prompts": [
+            {
+                "type": "Why UChicago (Required)",
+                "prompt": "How does the University of Chicago, as you know it now, satisfy your desire for a particular kind of learning, community, and future? Please address with some specificity your own wishes and how they relate to UChicago.",
+                "word_limit": "No strict limit (suggested ~500 words)"
+            },
+            {
+                "type": "Extended Essay",
+                "prompt": "Choose one of the 6 options below, or create your own:\n\n1. **Option 1:** In an ideal world where inter-species telepathic communication exists, which species would you choose to have a conversation with, and what would you want to learn from them? Would you ask beavers for architectural advice? Octopuses about cognition? Pigeons about navigation? Ants about governance? Make your case—both for the species and the question. (Inspired by Yvan Sugira, Class of 2029)\n\n2. **Option 2:** If you could uninvent one thing, what would it be — and what would unravel as a result? (Inspired by Eitan Fischer, Class of 2027)\n\n3. **Option 3:** \"Left\" can mean remaining or departed. \"Dust\" can mean to add fine particles or to remove them. \"Fast\" can mean moving quickly or fixed firmly in place. These contronyms—words that are their own antonyms—somehow hold opposing meanings in perfect tension. Explore a contronym: a role, identity, or experience in your life that has contained its own opposite. (Inspired by Kristin Yi, Class of 2029)\n\n4. **Option 4:** The penny is on its way out—too small to matter, too costly to keep. But not everything small should disappear. What’s one object the world is phasing out that you think we can’t afford to lose, and why? (Ella Somaiya, Class of 2028)\n\n5. **Option 5:** From Michelin Tires creating the Michelin Guide, to the audio equipment company Audio-Technica becoming one of the world’s largest manufacturers of sushi robots, brand identity can turn out to be a lot more flexible than we think. Choose an existing brand, company, or institution and propose an unexpected but strangely logical new product or service for them to launch. Why is this unlikely extension exactly what the world (or the brand) needs right now? (Inspired by Julia Nieberg, Class of 2029)\n\n6. **Option 6:** Statistically speaking, ice cream doesn’t cause shark attacks, pet spending doesn’t drive the number of lawyers in California, and margarine consumption isn’t responsible for Maine’s divorce rate—at least, not according to conventional wisdom. But what if the statisticians got it wrong? Choose your favorite spurious correlation and make the case for why it might actually reveal a deeper, causative truth. (Inspired by Adam DiMascio, Class of 2025)\n\n---\n\n**Or, Create Your Own Question:**\nAnd, as always… the classic choose your own adventure option! In the spirit of adventurous inquiry, choose one of our past prompts (or create a question of your own). Be original, creative, thought provoking. Draw on your best qualities as a writer, thinker, visionary, social critic, sage, citizen of the world, or future citizen of the University of Chicago; take a little risk, and have fun!",
+                "word_limit": "No strict limit (suggested ~650 words)"
+            }
+        ]
+    },
+    {
+        "school": "Dartmouth College",
+        "source_url": "https://admissions.dartmouth.edu/apply-dartmouth/dartmouth-transfer-application-essays",
+        "prompts": [
+            {
+                "type": "Required Transfer Essay (Why Dartmouth)",
+                "prompt": "While arguing a Dartmouth-related case before the U.S. Supreme Court in 1818, Daniel Webster, Class of 1801, delivered this memorable line: \"It is, Sir…a small college. And yet, there are those who love it!\" As you seek admission to Dartmouth, what prompted your decision to transfer institutions and what aspects of the College's program, community, or campus environment attract your interest?",
+                "word_limit": "500 words or fewer"
+            },
+            {
+                "type": "Required Introduction (Choose One)",
+                "prompt": "Please respond to one of the following prompts:\n\nA. There is a Quaker saying: Let your life speak. Describe the environment in which you were raised and the impact it has had on the person you are today.\n\nB. \"Be yourself,\" Oscar Wilde advised. \"Everyone else is taken.\" Introduce yourself.",
+                "word_limit": "250 words or fewer"
+            },
+            {
+                "type": "Required Short Answer (Choose One)",
+                "prompt": "Please choose one of the following prompts:\n\nA. What excites you?\n\nB. Labor leader and civil rights activist Dolores Huerta recommended a life of purpose. \"We must use our lives to make the world a better place to live, not just to acquire things,\" she said. \"That is what we are put on the earth for.\" In what ways do you hope to make—or are you already making—an impact? Why? How?\n\nC. In \"Oh, The Thinks You Can Think,\" Dr. Seuss invites us to \"Think and wonder. Wonder and think.\" Imagine your anticipated academic major: How does that course of study sync with Dr. Seuss's advice to you?\n\nD. The social and family interactions of wild chimpanzees have been the focus of Dame Jane Goodall's research for decades. Her understanding of animal behavior prompted the English primatologist to see a lesson for human communities as well: \"Change happens by listening and then starting a dialogue with the people who are doing something you don't believe is right.\" Channel Dame Goodall: Tell us about a moment when you engaged in a difficult conversation or encountered someone with an opinion or perspective that was different from your own. How did you find common ground?\n\nE. Celebrate your nerdy side.\n\nF. \"It's not easy being green…\" was the frequent refrain of Kermit the Frog. How has difference been a part of your life, and how have you embraced it as part of your identity, outlook, or sense of purpose?\n\nG. Buddy Teevens '79 was a legendary and much-beloved coach at Dartmouth. He often told parents: \"Your son will be a great football player when it's football time, a great student when it's academic time, and a great person all of the time.\" If Coach Teevens had said that to you, what would it mean to be \"a great person\"?",
+                "word_limit": "200-250 words"
+            }
+        ]
+    },
+    {
+        "school": "University of Michigan (UMich)",
+        "source_url": "https://admissions.umich.edu/apply/transfer-applicants/essay-questions",
+        "prompts": [
+            {
+                "type": "Required Transfer Essay (Reasons for Transferring)",
+                "prompt": "Please provide a statement that addresses your reasons for transferring and the objectives you hope to achieve.",
+                "word_limit": "1,500 characters maximum (approx. 250-300 words)"
+            },
+            {
+                "type": "Required UMich Essay 1 (Community/Leadership)",
+                "prompt": "At the University of Michigan, we are focused on developing leaders and citizens who will challenge the present and enrich the future. In your essay, share with us how you are prepared to contribute to these goals. This could include the people, places, experiences, or aspirations that have shaped your journey and future plans.",
+                "word_limit": "1,500 characters maximum (approx. 250-300 words)"
+            },
+            {
+                "type": "Required UMich Essay 2 (Curriculum)",
+                "prompt": "Describe the unique qualities that attract you to the specific undergraduate college or school (including preferred admission and dual degree programs) to which you are applying at the University of Michigan. How would that curriculum support your interests?",
+                "word_limit": "2,750 characters maximum (approx. 500-550 words)"
+            },
+            {
+                "type": "Optional Essay (Challenges)",
+                "prompt": "An optional essay related to the impact of challenges on the applicant. We encourage students to share their specific circumstances, and we will bring empathy and compassion to our holistic review process.",
+                "word_limit": "No strict limit"
+            }
+        ]
+    },
+    {
+        "school": "Carnegie Mellon University (CMU)",
+        "source_url": "https://www.cmu.edu/admission/admission/admission-consideration",
+        "prompts": [
+            {
+                "type": "Short Answer 1 (Passion/Inspiration)",
+                "prompt": "Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time — what passion or inspiration led you to choose this area of study?",
+                "word_limit": "300 words"
+            },
+            {
+                "type": "Short Answer 2 (Successful College Experience)",
+                "prompt": "Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience?",
+                "word_limit": "300 words"
+            },
+            {
+                "type": "Short Answer 3 (Personal Emphasis)",
+                "prompt": "Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please).",
+                "word_limit": "300 words"
+            }
+        ]
+    }
+]
