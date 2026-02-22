@@ -482,7 +482,9 @@ with main_container:
                         st.markdown(f"**Difficulty:** :{status_color}[{status}]")
                         st.info(f"💡 **Notes:** {college['notes']}")
                         
-                        with st.expander("Show Majors / Departments", expanded=False):
+                        # Use st.container() instead of nested expander to avoid StreamlitAPIException
+                        with st.container():
+                            st.caption("Show Majors / Departments")
                             # Highlight logic
                             raw_majors = college.get('majors_desc', '')
                             if not raw_majors:
