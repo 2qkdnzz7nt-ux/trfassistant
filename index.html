@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>US School Research Assistant</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.53.0/build/stlite.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.53.0/build/stlite.js"></script>
+    <script>
+      stlite.mount({
+  "requirements": [
+    "streamlit",
+    "pandas",
+    "requests",
+    "beautifulsoup4",
+    "textblob"
+  ],
+  "entrypoint": "app.py",
+  "files": {
+    "app.py": {
+      "url": "app.py"
+    },
+    "check_env.py": {
+      "url": "check_env.py"
+    },
+    "check_python_env.py": {
+      "url": "check_python_env.py"
+    },
+    "demo.py": {
+      "url": "demo.py"
+    },
+    "essay_helper.py": {
+      "url": "essay_helper.py"
+    },
+    "main.py": {
+      "url": "main.py"
+    },
+    "README.md": {
+      "url": "README.md"
+    },
+    "researcher.py": {
+      "url": "researcher.py"
+    },
+    ".vercel/project.json": {
+      "url": ".vercel/project.json"
+    },
+    "data/applications.json": {
+      "url": "data/applications.json"
+    },
+    "data/essay_prompts.json": {
+      "url": "data/essay_prompts.json"
+    },
+    "data/profile.json": {
+      "url": "data/profile.json"
+    },
+    "data/research_notes.json": {
+      "url": "data/research_notes.json"
+    },
+    "data/school_info.json": {
+      "url": "data/school_info.json"
+    },
+    "essays/Cornell_University_outline.md": {
+      "url": "essays/Cornell_University_outline.md"
+    },
+    "essays/Johns_Hopkins_University_(JHU)_outline.md": {
+      "url": "essays/Johns_Hopkins_University_(JHU)_outline.md"
+    },
+    "research_notes/Brown_University.json": {
+      "url": "research_notes/Brown_University.json"
+    },
+    "research_notes/Brown_University_notes.md": {
+      "url": "research_notes/Brown_University_notes.md"
+    },
+    "research_notes/Carnegie_Mellon_University_(CMU).json": {
+      "url": "research_notes/Carnegie_Mellon_University_(CMU).json"
+    },
+    "research_notes/Carnegie_Mellon_University_(CMU)_notes.md": {
+      "url": "research_notes/Carnegie_Mellon_University_(CMU)_notes.md"
+    },
+    "research_notes/Columbia_University.json": {
+      "url": "research_notes/Columbia_University.json"
+    },
+    "research_notes/Columbia_University_notes.md": {
+      "url": "research_notes/Columbia_University_notes.md"
+    },
+    "research_notes/Cornell_University.json": {
+      "url": "research_notes/Cornell_University.json"
+    },
+    "research_notes/Cornell_University_notes.md": {
+      "url": "research_notes/Cornell_University_notes.md"
+    },
+    "research_notes/Duke_University.json": {
+      "url": "research_notes/Duke_University.json"
+    },
+    "research_notes/Duke_University_notes.md": {
+      "url": "research_notes/Duke_University_notes.md"
+    },
+    "research_notes/Johns_Hopkins_University_(JHU).json": {
+      "url": "research_notes/Johns_Hopkins_University_(JHU).json"
+    },
+    "research_notes/Johns_Hopkins_University_(JHU)_notes.md": {
+      "url": "research_notes/Johns_Hopkins_University_(JHU)_notes.md"
+    },
+    "research_notes/University_of_Chicago_(UChicago).json": {
+      "url": "research_notes/University_of_Chicago_(UChicago).json"
+    },
+    "research_notes/University_of_Michigan_(UMich).json": {
+      "url": "research_notes/University_of_Michigan_(UMich).json"
+    }
+  }
+}, document.getElementById("root"))
+    </script>
+  </body>
+</html>
