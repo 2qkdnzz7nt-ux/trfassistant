@@ -48,6 +48,7 @@ def generate_stlite_index():
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>US School Research Assistant</title>
+    <link rel="icon" href="favicon.png" type="image/png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@stlite/mountable@0.53.0/build/stlite.css">
   </head>
   <body>
