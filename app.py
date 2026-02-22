@@ -9,7 +9,7 @@ from essay_helper import EssayHelper
 # Set page configuration
 st.set_page_config(
     page_title="US Transfer Research Assistant",
-    page_icon="🎓",
+    page_icon="🇺🇸",
     layout="wide"
 )
 
